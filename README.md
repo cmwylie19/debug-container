@@ -9,6 +9,7 @@ _This is built to address the use case of deploying an app into a kubernetes clu
 - grpcurl
 - hping3
 - nc (netcat)
+- mongodb
 
 ## Build Local
 ```
